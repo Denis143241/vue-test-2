@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/views/durakGame.vue"],"names":["script","render"],"mappings":"uJACA,MAAMA,EAAS,GACfA,EAAOC,OAASA,EAED","file":"js/chunk-2d0dde2f.e155a49e.js","sourcesContent":["import { render } from \"./durakGame.vue?vue&type=template&id=4af202a4\"\nconst script = {}\nscript.render = render\n\nexport default script"],"sourceRoot":""}
