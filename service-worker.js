@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vue-test-2/precache-manifest.1d7bedcd7c73b1e5276cf5f9bbd649aa.js"
+  "/vue-test-2/precache-manifest.9f3768d50a0ffbb4975424b16d7c6683.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "youtube_app"});
